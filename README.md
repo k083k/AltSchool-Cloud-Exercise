@@ -15,5 +15,5 @@ I'm a Software Engineer, who currently works as IT support for an Oil and Gas En
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=k083k&show_icons=true&include_all_commits=true&hide_border=true" alt="Kobe's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Kobe's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=k083k&show_icons=true&include_all_commits=true&hide_border=true" alt="Kobe's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k083k&langs_count=8&layout=compact&hide_border=true" alt="Kobe's GitHub stats" /> |
 | ------------- | ------------- |
